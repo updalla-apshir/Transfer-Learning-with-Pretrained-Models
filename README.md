@@ -1,5 +1,5 @@
 # Transfer Learning Experiment 
-
+ 
 ## Objective
 
 Investigate how progressive layer unfreezing affects the performance and computational cost of an ImageNet-pretrained ResNet18 during transfer learning.
