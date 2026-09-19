@@ -6,7 +6,7 @@ Investigate how progressive layer unfreezing affects the performance and computa
 
 The experiment compares four configurations, ranging from using the pretrained model without training to full fine-tuning of all model parameters.
 
----
+--- 
 
 ## Experimental Setup
 
