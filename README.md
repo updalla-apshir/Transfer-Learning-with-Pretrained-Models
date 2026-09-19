@@ -18,7 +18,6 @@ The experiment compares four configurations, ranging from using the pretrained m
 | Learning Rate      | 0.1                           |
 | Epochs             | 10                            |
 | Evaluation Metric  | Top-1 Test Accuracy           |
-| Dataset            | FashionMNIST                  |
 | Input              | Resized to 224×224, 3-channel |
 | Initialization     | ImageNet-pretrained weights   |
 
