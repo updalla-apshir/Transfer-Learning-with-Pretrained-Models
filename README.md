@@ -1,4 +1,4 @@
-# Transfer Learning Experiment — ResNet18
+# Transfer Learning Experiment 
 
 ## Objective
 
